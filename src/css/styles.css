@@ -170,10 +170,6 @@ body {
   }
 }
 
-.hidden {
-  display: none;
-}
-
 .search-form {
   display: flex;
   justify-content: center;
@@ -238,4 +234,8 @@ body {
 
 .load-more:hover {
   background-color: #6c8cff;
+}
+
+.hidden {
+  display: none;
 }
